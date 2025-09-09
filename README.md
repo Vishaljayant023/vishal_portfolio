@@ -49,9 +49,10 @@ This is a **responsive and modern portfolio website** designed to showcase my sk
 ## 📬 Contact
 
 Feel free to reach out!\
-📧 Email: siddhantsaini098\@gmail.com\
-🌐 LinkedIn: [Siddhant Singh Saini](https://www.linkedin.com/in/siddhant-singh-saini-53321a255)
+📧 Email: vishaljayant023@gmail.com
+🌐 LinkedIn: [Vishal Jayant](https://www.linkedin.com/in/vishal-jayant-6391b8296/)
 
 🔗 **Star this repo** if you found it useful! ⭐\
 Happy coding! 🚀
+
 
